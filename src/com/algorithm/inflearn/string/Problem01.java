@@ -1,4 +1,4 @@
-package com.algorithm.inflearn;
+package com.algorithm.inflearn.string;
 
 import java.util.Locale;
 import java.util.Scanner;
